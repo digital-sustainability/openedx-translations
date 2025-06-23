@@ -467,5 +467,7 @@
   "learn.sequence.navigation.next.button": "Weiter",
   "learn.sequence.navigation.next.up.button": "Als nächstes: {title}",
   "learn.sequence.navigation.previous.button": "Zurück",
-  "discussions.sidebar.open.button": "Diskussionsablage anzeigen"
+  "discussions.sidebar.open.button": "Diskussionsablage anzeigen",
+  "instructor.toolbar.view.course": "Kurs ansehen in:",
+  "instructor.toolbar.view.as": "Diesen Kurs anzeigen als:"
 }
