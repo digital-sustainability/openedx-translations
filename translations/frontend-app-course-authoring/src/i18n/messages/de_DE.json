@@ -413,7 +413,7 @@
   "course-authoring.course-outline.sidebar.section-3.title": "Lege Veröffentlichungsdaten und Benotungsrichtlinien fest",
   "course-authoring.course-outline.sidebar.section-3.descriptions-1": "Wähle das Konfigurationssymbol eines Abschnitts oder Unterabschnitts, um deren Veröffentlichungsdaten festzulegen. Wenn du einen Unterabschnitt konfigurierst, kannst du zudem die Benotungsrichtlinien und Fälligkeitsdaten einstellen.",
   "course-authoring.course-outline.sidebar.section-3.link": "Erfahre mehr über die Benotungsrichtlinien",
-  "course-authoring.course-outline.sidebar.section-4.title": "bereits freigeschaltete Inhalte ändern. ",
+  "course-authoring.course-outline.sidebar.section-4.title": "Bereits freigeschaltete Inhalte ändern",
   "course-authoring.course-outline.sidebar.section-4.descriptions-1": "Um den Entwurfsinhalt zu veröffentlichen, wähle das Veröffentlichen-Symbol eines Abschnitts, Unterabschnitts oder einer Lerneinheit.",
   "course-authoring.course-outline.sidebar.section-4.descriptions-2": "Um einen Abschnitt, Unterabschnitt oder eine Einheit für Lernende nicht verfügbar zu machen, wählen Sie das Symbol „Konfigurieren“ für diese Ebene und dann die entsprechende Option {hide} aus. Noten für ausgeblendete Abschnitte, Unterabschnitte und Einheiten werden bei der Notenberechnung nicht berücksichtigt.",
   "course-authoring.course-outline.sidebar.section-4.descriptions-2.hide": "Verstecken",
